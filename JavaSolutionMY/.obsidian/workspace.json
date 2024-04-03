@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c8bb506463e4edb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a21260841950ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b118ebae20d8d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "335e1bfefdddd130",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ef60f63eca759b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29df28d95fb0931",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fe38f2b2bdaebc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45f2584fe02ebd15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e2bacef7969312f",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a6d594ee061ff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40f48f80a9f05ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3389471c856cfe7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f4c918a0d87c402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c27a493b5cc1867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b118ebae20d8d74",
+  "lastOpenFiles": [
+    "Java.md",
+    "rfgfg.md",
+    "1.1.jpg",
+    "1.2.jpg",
+    "1.3.jpg",
+    "Chapter - 5 Working with Fragments, Dialogs and Android Preferences.pdf",
+    "Unit - 3.pdf",
+    "UNIT-4.pdf",
+    "Untitled 1.md",
+    "Welcome.md"
+  ]
+}
